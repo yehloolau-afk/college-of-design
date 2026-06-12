@@ -294,16 +294,15 @@ footer{background:#fff;border-top:1px solid var(--bd);padding:20px 0}
   /* 全局：底部为 tab 栏留出空间 */
   body{padding-bottom:calc(56px + env(safe-area-inset-bottom,0px))}
 
-  /* ── NAV：只留 Logo + 会员按钮，隐藏所有导航链接 ── */
-  .ni{height:52px;padding:0 16px}
-  .nlinks,.nd,.btn-ln{display:none}
+  /* ── NAV：只保留 Logo，隐藏所有按钮和导航链接 ── */
+  .ni{height:48px;padding:0 16px}
+  .nlinks,.nd,.nr{display:none}
   .logo{margin-right:0}
-  .btn-pub{padding:5px 14px;font-size:13px}
 
   /* ── BANNER：竖排，隐藏右侧装饰 SVG ── */
   .banner-inner{
     flex-direction:column;
-    padding:20px 16px 24px;
+    padding:16px 16px 22px;
     gap:0;
     align-items:flex-start;
   }
@@ -312,8 +311,8 @@ footer{background:#fff;border-top:1px solid var(--bd);padding:20px 0}
   .bkw{font-size:11px;padding:2px 9px}
   .banner-title{font-size:22px;line-height:1.25;margin-bottom:8px;letter-spacing:-.3px}
   .banner-title em{font-size:13px}
-  .banner-sub{font-size:13px;max-width:100%;line-height:1.65;margin-bottom:20px}
-  .banner-stats{gap:28px;margin-bottom:20px}
+  .banner-sub{font-size:13px;max-width:100%;line-height:1.65;margin-bottom:18px}
+  .banner-stats{gap:28px;margin-bottom:18px}
   .bst-n{font-size:20px}
   .bst-l{font-size:10px}
   .banner-btns{gap:10px}

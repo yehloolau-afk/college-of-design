@@ -1,6 +1,6 @@
 # College of Design
 
-**Live →** [yehloolau-afk.github.io/designer-hub](https://yehloolau-afk.github.io/designer-hub/)
+**Live →** [yehloolau-afk.github.io/college-of-design](https://yehloolau-afk.github.io/college-of-design/)
 
 A curated knowledge platform for designers. Three tracks of deep content on UX methods, AIGC techniques, and career growth — all in one place.
 

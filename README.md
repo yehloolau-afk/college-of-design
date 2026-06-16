@@ -1,18 +1,18 @@
 # College of Design
 
-**Live →** [yehloolau-afk.github.io/college-of-design](https://yehloolau-afk.github.io/college-of-design/)
+**Live →** [yehloolau-afk.github.io/designer-hub](https://yehloolau-afk.github.io/designer-hub/)
 
 A curated knowledge platform for designers. Three tracks of deep content on UX methods, AIGC techniques, and career growth — all in one place.
 
 ---
 
-## 📚 Content tracks
+## Content Tracks
 
-**UX 设计** — Product design fundamentals and case studies. B-end vs C-end design, designer value in business, interaction logic, and more.
+**UX Design** — Product design fundamentals and case studies. B-end vs C-end design, designer value in business, interaction logic, and more.
 
 **AIGC** — How designers work with generative AI. Prompt craft, workflow integration, creative techniques.
 
-**设计成长** — Career and craft. How to grow as a designer in the AI era.
+**Design Growth** — Career and craft. How to grow as a designer in the AI era.
 
 Each track includes articles and videos, filterable by type.
 
